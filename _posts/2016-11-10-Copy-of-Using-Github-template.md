@@ -41,10 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>This requires lots and lots of filler text. That filler text should be written in your own jaunty style. Consider it an act of creative writing as well as the other necessities. 
-Write about what you did, but more important to write about is what you LEARNED! This could be about design, interfaces and appearance, just as much as core subject matter like the code. 
-Remember to reflect on the learning habits you have used, how they applied or how they were disrupted.
-Don't write about what you were taught, focus on what you have learned.</td>
+    <td>I NEED TO CHANGE THIS</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
@@ -53,7 +50,7 @@ Don't write about what you were taught, focus on what you have learned.</td>
     <td>This requires lots and lots of filler text. That filler text should be written in your own jaunty style. Consider it an act of creative writing as well as the other necessities. 
 Write about what you did, but more important to write about is what you LEARNED! This could be about design, interfaces and appearance, just as much as core subject matter like the code. 
 Remember to reflect on the learning habits you have used, how they applied or how they were disrupted.
-Don’t write about what you were taught, focus on what you have learned.</td>
+Don't write about what you were taught, focus on what you have learned.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
