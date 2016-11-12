@@ -1,5 +1,5 @@
 ---
-title: My-Blog
+title: My Blog
 layout: post
 author: luke.harrison
 permalink: /copy-of-using-github-template/
