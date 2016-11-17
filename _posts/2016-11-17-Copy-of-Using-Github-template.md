@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>My Review
+    <td>My second blog
 </td>
     <td>Date</td>
     <td>16/11/16</td>
