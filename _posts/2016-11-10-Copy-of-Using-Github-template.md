@@ -1,5 +1,5 @@
 ---
-title: My Blog
+title: My First Lesson Review
 layout: post
 author: luke.harrison
 permalink: /copy-of-using-github-template/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>My first lesson review</td>
+    <td>My Blog</td>
     <td>Date</td>
     <td>7/11/16</td>
   </tr>
