@@ -12,7 +12,7 @@ published: true
     <td>My second blog
 </td>
     <td>Date</td>
-    <td>17/11/16</td>
+    <td>14/11/16</td>
   </tr>
 </table>
 
