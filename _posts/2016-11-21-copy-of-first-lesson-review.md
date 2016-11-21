@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Best blog ever!</td>
     <td>Date</td>
-    <td>7/11/16</td>
+    <td>21/11/16</td>
   </tr>
 </table>
 
@@ -41,22 +41,20 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>The strategies that I used to start off were that I asked Mr Keen questions when I wasn't sure.  </td>
+    <td>The strategies that I used to start off were that I asked Mr Keen questions when I wasn't sure. I also asked my friends when I was stuck. This helped me because I didn't get confused as much. Another strategy I used alot was to take notes when Mr Keen was talking to the class. This allowed me to keep up with the class and I knew what I was I was doing most of the time. I learnt by giving my full attention to the responses I got from Mr Keen and my friends.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Time limited my learning as I found that it took me a lot of time to complete this assessment. I need to work on using my time more effectively so perhaps doing 30 mins of this work 2-3 times a week as opposed to 2 hours in one night. 
-I also learnt that I need to go back and check my work as when I did this I noticed I had missed out a few steps which caused me confusion.
+    <td>I need to work on my concentration as in the lesson I was doing the wrong thing for half of the lesson. I was more focused on how my blog looked than the content so I ended up having 5 mintues to do as much as I could of my content. I need to work on my noting kills as when Mr Keen was talking I noted down some of the wrong facts which made it a tiny bit confusing. This was a HUGE mistake...
 </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>If I were to do this again I would change my attitude to listening in class as I found that I was not sure how to do some things as I could not remember all that was said as I was not paying attention. I would now write some things down so that it would help me recall class discussions.
-I will improve my learning by paying full attention to what is being said in class and I will also write down notes which will help me remember key stages and allow me to keep up with the other boys.
+    <td>If I were to do this again I would change the order of the things that I need to do. I need to get the content done first and then worry about how my blog looks. Another thing I would change is who I ask when i'm stuck as I asked some people and then they said teh wrong thing which was really confusing. I will improve on my learning by noting down the right facts when my teacher is speaking. This will result in me not getting confused.  
 
 </td>
   </tr>
