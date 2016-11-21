@@ -1,5 +1,5 @@
 ---
-title: My First Lesson Review
+title: Blog finished
 layout: post
 author: luke.harrison
 permalink: /copy-of-first-lesson-review/
