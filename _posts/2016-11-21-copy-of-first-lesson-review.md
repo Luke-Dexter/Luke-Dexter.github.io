@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Add another blod post.</td>
+    <td>Add another blog post.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
