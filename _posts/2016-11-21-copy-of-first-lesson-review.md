@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td> Publishing Blog</td>
+    <td> Editnd posts file.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Publish my blog and add an image as my background of my website.</td>
+    <td>Add another blod post.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes, I reached my target because my blog is now published online and I have managed to change my background to an image.</td>
+    <td>Yes, I reached my target because my blog now has another blog post.
   </tr>
 </table>
 
@@ -41,9 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>The strategies that I used to start off with when I was publishing my blog was that I followed the slides that Mr Keen (my teacher) had posted on Google Classroom. I worked out that in the end it was fairly simple to publish my blog as long as I followed the instructions carefully. When I was changing my background I noticed that I had to go into the style.scss file since the background is a part of the style of my blog which confused me initially. After I had found the place where I could change my background I went to the slides on Google Classroom so I knew what to input into the background section. I found an image I liked and entered it into the style.scss file and then my background changed which was the successful outcome I was looking for.
-I learnt that by following the instructions on the slides carefully I could achieve my goal. 
-By doing this assessment I learnt about codes and that you can actually publish your own website which I did not know before.</td>
+    <td>The strategies that I used to start off were that I asked Mr Keen questions when I wasn't sure.  </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
