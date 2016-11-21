@@ -2,14 +2,14 @@
 title: My First Lesson Review
 layout: post
 author: luke.harrison
-permalink: /copy-of-using-github-template/
+permalink: /copy-of-first-lesson-review/
 source-id: 1b20GBhJq6X9nwVt7r5v0iYhcjGKHUAcSeJZH4RTX5Ew
 published: true
 ---
 <table>
   <tr>
     <td>Title</td>
-    <td>My Blog</td>
+    <td>Best blog ever!</td>
     <td>Date</td>
     <td>7/11/16</td>
   </tr>
