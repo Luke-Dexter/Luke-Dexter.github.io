@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td> Editnd posts file.</td>
+    <td> Editng posts file.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
