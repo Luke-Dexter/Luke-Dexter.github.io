@@ -181,9 +181,10 @@ Examples: change level, start game, end game.</td>
     <td>What custom blocks might you want/need?</td>
   </tr>
   <tr>
-    <td>Moving when the scuba diver moves.
-Movement in sharks.
-Opening of treasure chest.
+    <td>A scrolling background.(Under the sea.)
+    An opening background with some decorations.
+    A scuba diver and 5 sharks.
+    5 treasure chests.
 </td>
   </tr>
 </table>
