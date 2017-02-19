@@ -31,7 +31,7 @@ Week 3
     <td>Enter the given criteria
 Have a working prototype of your game by the end of this week’s homework
 </td>
-    <td>Complete my game
+    <td>Complete my game and 
 Finish every background</td>
   </tr>
 </table>
