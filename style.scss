@@ -144,7 +144,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $yellow;
 }
 
 // Specify the color of the selection
@@ -192,8 +192,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 90px;
+  height: 90px;
   margin-right: 15px;
 
   @include mobile {
@@ -203,7 +203,7 @@ img {
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 10px;
   }
 }
 
@@ -219,7 +219,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $yellow;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -229,7 +229,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $yellow;
   font-size: 16px;
 
   @include mobile {
